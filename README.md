@@ -17,14 +17,16 @@
 
 <br />
 
-<img align="right" alt="digital collage designed by Miles Shank" src="Exercise5_MilesShank.jpg" />
-
 Welcome, nice to meet you, I'm Miles. I'm a Web Developer, designer, and artist. I love using code to solve problems, and also to create meaningful, unique, and/or silly art projects. I specalize in front end and UI.
 When I'm not coding, my hobbies are photography, painting, watching anime, or playing video games.
 
+<img align="right" alt="digital collage designed by Miles Shank" src="Exercise5_MilesShank.jpg" />
 
 
 
+
+
+<br align="left">
 **quick facts**
 
 🌱 Learning React
@@ -41,3 +43,4 @@ React
 HTML/CSS
 Java
 Python
+</br>
