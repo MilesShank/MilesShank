@@ -1,5 +1,5 @@
 
-### Hello! Miles here!](https://MilesShank.github.io/)
+### Hello! Miles here!
 
 <br/>
 
@@ -17,14 +17,14 @@
 
 <br />
 
-Hello! I'm Miles. I'm a Web Developer, designer, and artist. I love using code to solve problems, and also to create meaningful, unique, or silly art projects. I specalize in front end and UI.
+Welcome, nice to meet you, I'm Miles. I'm a Web Developer, designer, and artist. I love using code to solve problems, and also to create meaningful, unique, and/or silly art projects. I specalize in front end and UI.
 When I'm not coding, my hobbies are photography, painting, watching anime, or playing video games.
 
 
 <img align="right" alt="digital collage designed by Miles Shank" src="Exercise5_MilesShank.jpg" />
 
 
-**About Me**
+**quick facts**
 
 🌱 Learning React
 ⚡ Currently designing and coding art portfolios!
