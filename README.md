@@ -21,7 +21,7 @@ Hello! I'm Miles. I'm a Web Developer, designer, and artist. I love using code t
 When I'm not coding, my hobbies are photography, painting, watching anime, or playing video games.
 
 
-<iframe src="https://drive.google.com/file/d/1SdNDj5SXdtnPb2qJFxB_7tXDvtgS1MqX/preview" width="640" height="480" allow="autoplay"></iframe>
+<img align="right" alt="digital collage designed by Miles Shank" src="Exercise5_MilesShank.jpg" />
 
 
 **About Me**
