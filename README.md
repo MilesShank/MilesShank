@@ -1,5 +1,5 @@
 
-### Hello World, & welcome to my profile.
+### Hello World, & Welcome to my Profile.
 
 <br/>
 
