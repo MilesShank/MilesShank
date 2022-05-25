@@ -28,11 +28,11 @@ When I'm not coding, my hobbies are photography, painting, watching anime, or pl
 
 **Quick Facts**
 
-🌱 Learning React
-⚡ Currently designing and coding art portfolios!
-✨ Designed and released CROSSNIQ+ for the Nintendo Switch
-💬 I Can Speak Mandarin
-🏳️‍🌈 LGBTQ+
+- 🌱 Learning React
+- ⚡ Currently designing and coding art portfolios!
+- ✨ Designed and released CROSSNIQ+ for the Nintendo Switch
+- 💬 I Can Speak Mandarin
+- 🏳️‍🌈 LGBTQ+
 
 
 
