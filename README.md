@@ -37,8 +37,8 @@ When I'm not coding, my hobbies are photography, painting, watching anime, or pl
 
 
 **Languages and Tools:**
-Javascript
-React
-HTML/CSS
-Java
-Python
+- Javascript
+- React
+- HTML/CSS
+- Java
+- Python
